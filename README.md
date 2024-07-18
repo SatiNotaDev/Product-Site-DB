@@ -26,6 +26,7 @@ Project Structure
 │
 └── README.md
 
+
 Detailed Description
 1. Controllers:
 DefaultController.php: Handles general application requests and directs them to the appropriate views.
