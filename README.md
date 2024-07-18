@@ -1,7 +1,7 @@
 Project Description
 This project is a PHP-based web application designed to manage and display product information. The application uses a combination of different adapters to handle data persistence and retrieval, supporting both database and JSON file storage methods. The structure of the application follows the Model-View-Controller (MVC) pattern to separate concerns and improve maintainability.
 
-Project Structure
+Project Structure <br>
 ![image](https://github.com/user-attachments/assets/6364c092-429a-45f0-88d5-b8f852965579)
 
 
