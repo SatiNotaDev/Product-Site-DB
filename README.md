@@ -2,29 +2,7 @@ Project Description
 This project is a PHP-based web application designed to manage and display product information. The application uses a combination of different adapters to handle data persistence and retrieval, supporting both database and JSON file storage methods. The structure of the application follows the Model-View-Controller (MVC) pattern to separate concerns and improve maintainability.
 
 Project Structure
-/project-root
-│
-├── /controllers
-│   ├── DefaultController.php
-│   ├── ProductController.php
-│
-├── /models
-│   ├── Product.php
-│
-├── /repositories
-│   ├── ProductRepository.php
-│
-├── /adapters
-│   ├── DatabaseAdapter.php
-│   ├── JsonFileAdapter.php
-│   ├── PersistenceAdapter.php
-│
-├── /views
-│   ├── index.html.twig
-│
-├── index.php
-│
-└── README.md
+![image](https://github.com/user-attachments/assets/6364c092-429a-45f0-88d5-b8f852965579)
 
 
 Detailed Description
